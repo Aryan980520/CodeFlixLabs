@@ -1,0 +1,1 @@
+[{"code":"#include<stdio.h>\r\nint main() {\r\nprintf(\"1\");\r\n\r\n}","language":"c","time":"2025-05-19T17:49:46.947Z","isCorrect":false}]
